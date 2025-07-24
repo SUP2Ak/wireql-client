@@ -421,8 +421,7 @@ import type {
 
 ## 📄 Licence
 
-MIT © WireQL Team
-
+MIT © SUP2Ak
 ## 🔗 Liens utiles
 
 - [Documentation complète](https://wireql.com/docs)
