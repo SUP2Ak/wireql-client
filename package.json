@@ -1,6 +1,6 @@
 {
   "name": "wireql-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Client TypeScript officiel pour WireQL - Base de données as-a-Service avec WebSocket et HTTP",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -48,13 +48,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wireql/wireql.git",
-    "directory": "wireql-client"
+    "url": "git+https://github.com/SUP2Ak/wireql-client.git"
   },
   "bugs": {
-    "url": "https://github.com/wireql/wireql/issues"
+    "url": "https://github.com/SUP2Ak/wireql-client/issues"
   },
-  "homepage": "https://wireql.com",
+  "homepage": "https://github.com/SUP2Ak/wireql-client#readme",
   "engines": {
     "node": ">=16.0.0"
   },
